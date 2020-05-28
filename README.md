@@ -1,2 +1,3 @@
 # algos
-repo for algorithm fun
+
+This repo is just to play with algorithms and test them out.
