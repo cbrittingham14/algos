@@ -7,9 +7,5 @@ var isArmstrong = function(num) {
   for(i = 0; i<len; i++) {
     sum += str[i]**len;
   };
-  if( sum === num){
-    return true;
-  } else {
-    return false;
-  }
+  return(sum === num ? true : false);
 };
